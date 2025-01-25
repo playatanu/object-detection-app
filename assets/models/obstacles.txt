@@ -1,0 +1,16 @@
+Animal
+Crosswalk
+Obstacle
+Over-bridge
+Person
+Pole
+Pothole
+Railway
+Road-barrier
+Sidewalk
+Stairs
+Traffic-light
+Traffic-sign
+Train
+Tree
+Vehicle
