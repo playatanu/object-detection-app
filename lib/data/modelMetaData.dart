@@ -59,8 +59,8 @@ List<ModelMetaData> modelMetaData = [
   ModelMetaData(
     id: 3,
     name: "Objects (Beta)",
-    nc: 2,
-    modelPath: "assets/models/object.torchscript",
-    labelPath: "assets/models/object.txt",
+    nc: 6,
+    modelPath: "assets/models/best.torchscript",
+    labelPath: "assets/models/best.txt",
   )
 ];
